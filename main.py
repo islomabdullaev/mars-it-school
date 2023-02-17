@@ -1,4 +1,6 @@
 print("Hello world")
 print("Salom dunyo")
+
+
 def welcome():
-  print("Hello World")
+    print("Hello Python")
